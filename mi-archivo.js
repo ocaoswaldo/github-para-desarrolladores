@@ -1,4 +1,4 @@
-alert("EDITADO");
+alert("Cambio");
 console.log("cambios en el archivo");
 
 let precio = 100;
